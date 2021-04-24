@@ -8,15 +8,39 @@
 
 ### Data Analysis And Visualisation
 
+Using python to analyse, visualise and present data.
+
+Repo: https://github.com/locspoc/data_analysis_and_visualisation
+
 ### Recipe App API
+
+Creating an advanced REST API with Python, Django REST Framework and Docker using Test Driven Development (TDD).
+
+Repo: https://github.com/locspoc/recipe-app-api
 
 ### Profiles REST API
 
+REST API App + fully-functioning user database.
+
+Repo: https://github.com/locspoc/profiles-rest-api
+
 ### Python Django Social
+
+An example social network built using Python and Django.
+
+Repo: https://github.com/locspoc/pythondjangosocial
 
 ### Python Django Blog
 
+An example blog built using Python and Django.
+
+Repo: https://github.com/locspoc/pythondjangoblog
+
 ### PHP CMS
+
+An example blog built using PHP.
+
+Repo: https://github.com/locspoc/phpcms
 
 ### Automate The Boring Stuff
 
