@@ -20,6 +20,10 @@
 
 ### Automate The Boring Stuff
 
+A practical programming course for office workers, academics, and administrators who want to improve their productivity.
+
+Repo: https://github.com/locspoc/automate-the-boring-stuff
+
 <!---
 locspoc/locspoc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
