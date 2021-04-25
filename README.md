@@ -12,6 +12,12 @@ Using python to analyse, visualise and present data.
 
 Repo: https://github.com/locspoc/data_analysis_and_visualisation
 
+### Python Blockchain Programming
+
+Building a blockchain and cryptocurrency from scratch using Python.
+
+Repo: https://github.com/locspoc/python-blockchain-programming
+
 ### Recipe App API
 
 Creating an advanced REST API with Python, Django REST Framework and Docker using Test Driven Development (TDD).
