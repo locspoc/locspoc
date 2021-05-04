@@ -12,6 +12,12 @@ Using python to analyse, visualise and present data.
 
 Repo: https://github.com/locspoc/data_analysis_and_visualisation
 
+### Crypto Chain
+
+Building a full stack block chaing and cryptocurrency - a backend + frontend with Node.js, Jest, Express, React, Heroku & more!
+
+Repo: https://github.com/locspoc/cryptochain
+
 ### Python Blockchain Programming
 
 Building a blockchain and cryptocurrency from scratch using Python.
@@ -47,12 +53,6 @@ Repo: https://github.com/locspoc/pythondjangoblog
 An example blog built using PHP.
 
 Repo: https://github.com/locspoc/phpcms
-
-### Automate The Boring Stuff
-
-A practical programming course for office workers, academics, and administrators who want to improve their productivity.
-
-Repo: https://github.com/locspoc/automate-the-boring-stuff
 
 <!---
 locspoc/locspoc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
