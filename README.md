@@ -12,11 +12,11 @@ Using python to analyse, visualise and present data.
 
 Repo: https://github.com/locspoc/data_analysis_and_visualisation
 
-### Crypto Chain
+### Loc Chain
 
 Building a full stack block chaing and cryptocurrency - a backend + frontend with Node.js, Jest, Express, React, Heroku & more!
 
-Repo: https://github.com/locspoc/cryptochain
+Repo: https://github.com/locspoc/locchain
 
 ### Python Blockchain Programming
 
