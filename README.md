@@ -14,7 +14,7 @@ Repo: https://github.com/locspoc/data_analysis_and_visualisation
 
 ### Loc Chain
 
-Building a full stack block chaing and cryptocurrency - a backend + frontend with Node.js, Jest, Express, React, Heroku & more!
+Building a full stack block chain and cryptocurrency - a backend + frontend with Node.js, Jest, Express, React, Heroku & more!
 
 Repo: https://github.com/locspoc/locchain
 
