@@ -66,6 +66,12 @@ Repo: https://github.com/locspoc/locchain
 
 ## PHP
 
+### PHP OOP
+
+An example website application using PHP Object Oriented Programming.
+
+Repo: https://github.com/locspoc/php-oop
+
 ### PHP CMS
 
 An example blog built using PHP.
@@ -77,6 +83,12 @@ Repo: https://github.com/locspoc/phpcms
 Unit testing PHP code using the PHPUnit testing framework: finding bugs quickly and early, and improving code quality.
 
 Repo: https://github.com/locspoc/php-unit
+
+### Fictional
+
+An example custom WordPress theme and plugins.
+
+Repo: https://github.com/locspoc/fictional
 
 <!---
 locspoc/locspoc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
