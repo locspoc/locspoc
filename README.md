@@ -66,6 +66,12 @@ An example blog built using PHP.
 
 Repo: https://github.com/locspoc/phpcms
 
+### PHP Unit Testing With PHPUnit
+
+Unit testing PHP code using the PHPUnit testing framework: finding bugs quickly and early, and improving code quality.
+
+Repo: https://github.com/locspoc/php-unit
+
 <!---
 locspoc/locspoc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
