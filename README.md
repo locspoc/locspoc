@@ -8,6 +8,12 @@
 
 ## Python
 
+### Digital Marketing Analytics
+
+Working with various APIs such as Facebook and Google to build custom reports using Python and Django.
+
+Repo: https://github.com/locspoc/digital-marketing-analytics
+
 ### Data Analysis And Visualisation
 
 Using python to analyse, visualise and present data.
