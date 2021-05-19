@@ -4,19 +4,15 @@
 - 💞️ I’m looking to collaborate on ... projects relating to digital marketing, machine learning and blockchain.
 - 📫 How to reach me ... https://www.linkedin.com/in/mrlocspoc/ or https://twitter.com/locspoc
 
-## Current Projects
+# Current Projects
+
+## Python
 
 ### Data Analysis And Visualisation
 
 Using python to analyse, visualise and present data.
 
 Repo: https://github.com/locspoc/data_analysis_and_visualisation
-
-### Loc Chain
-
-Building a full stack block chain and cryptocurrency - a backend + frontend with Node.js, Jest, Express, React, Heroku & more!
-
-Repo: https://github.com/locspoc/locchain
 
 ### Python Blockchain Programming
 
@@ -47,6 +43,16 @@ Repo: https://github.com/locspoc/pythondjangosocial
 An example blog built using Python and Django.
 
 Repo: https://github.com/locspoc/pythondjangoblog
+
+## NodeJS
+
+### Loc Chain
+
+Building a full stack block chain and cryptocurrency - a backend + frontend with Node.js, Jest, Express, React, Heroku & more!
+
+Repo: https://github.com/locspoc/locchain
+
+## PHP
 
 ### PHP CMS
 
