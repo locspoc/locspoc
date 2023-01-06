@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @locspoc
 - 👀 I’m interested in ... ecommerce, digital marketing, web development, data analytics & visualisation, machine learning and artificial intelligence.
 - 🌱 I’m currently learning ... all of the above.
-- 💞️ I’m looking to collaborate on ... projects relating to WordPress, Shopify and NodeJS.
+- 💞️ I’m looking to collaborate on ... projects relating to WordPress, Shopify and NodeJS / NextJS.
 - 📫 How to reach me ... https://www.linkedin.com/in/mrlocspoc/ | https://twitter.com/locspoc | https://loctran.com.au/
 
 # Current Projects
