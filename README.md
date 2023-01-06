@@ -6,6 +6,42 @@
 
 # Current Projects
 
+## Next JS
+
+### Next JS, Tailwind Ecommerce
+
+An ecommerce website built using Next JS and Tailwind
+
+Repo: https://github.com/locspoc/nextjs-tailwind-ecommerce
+
+## Node JS
+
+### TDD With Express
+
+A NodeJS project with Test Driven Development using Express.
+
+Repo: https://github.com/locspoc/tdd-with-express
+
+## PHP
+
+### PHP CMS
+
+An example blog built using PHP.
+
+Repo: https://github.com/locspoc/phpcms
+
+### PHP OOP
+
+An example website application using PHP Object Oriented Programming.
+
+Repo: https://github.com/locspoc/php-oop
+
+### PHP Unit Testing With PHPUnit
+
+Unit testing PHP code using the PHPUnit testing framework: finding bugs quickly and early, and improving code quality.
+
+Repo: https://github.com/locspoc/php-unit
+
 ## Python
 
 ### Data Analysis And Visualisation
@@ -49,22 +85,6 @@ Repo: https://github.com/locspoc/python-test-driven-development
 Creating an advanced REST API with Python, Django REST Framework and Docker using Test Driven Development (TDD).
 
 Repo: https://github.com/locspoc/recipe-app-api
-
-## Next JS
-
-### Next JS, Tailwind Ecommerce
-
-An ecommerce website built using Next JS and Tailwind
-
-Repo: https://github.com/locspoc/nextjs-tailwind-ecommerce
-
-## Node JS
-
-### TDD With Express
-
-A NodeJS project with Test Driven Development using Express.
-
-Repo: https://github.com/locspoc/tdd-with-express
 
 ## React
 
@@ -113,26 +133,6 @@ Repo: https://github.com/locspoc/locs-blocks
 Custom Gutenberg Full Site Editing block theme for WordPress.
 
 Repo: https://github.com/locspoc/locs-block-theme
-
-## PHP
-
-### PHP CMS
-
-An example blog built using PHP.
-
-Repo: https://github.com/locspoc/phpcms
-
-### PHP OOP
-
-An example website application using PHP Object Oriented Programming.
-
-Repo: https://github.com/locspoc/php-oop
-
-### PHP Unit Testing With PHPUnit
-
-Unit testing PHP code using the PHPUnit testing framework: finding bugs quickly and early, and improving code quality.
-
-Repo: https://github.com/locspoc/php-unit
 
 <!---
 locspoc/locspoc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
