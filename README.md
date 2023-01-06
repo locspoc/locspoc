@@ -1,18 +1,12 @@
 - 👋 Hi, I’m @locspoc
-- 👀 I’m interested in ... digital marketing, web development, data analytics & visualisation, machine learning and blockchain.
+- 👀 I’m interested in ... ecommerce, digital marketing, web development, data analytics & visualisation, machine learning and artificial intelligence.
 - 🌱 I’m currently learning ... all of the above.
-- 💞️ I’m looking to collaborate on ... projects relating to digital marketing, machine learning and blockchain.
+- 💞️ I’m looking to collaborate on ... projects relating to WordPress, Shopify and NodeJS.
 - 📫 How to reach me ... https://www.linkedin.com/in/mrlocspoc/ | https://twitter.com/locspoc | https://loctran.com.au/
 
 # Current Projects
 
 ## Python
-
-### Digital Marketing Analytics
-
-Working with various APIs such as Facebook and Google to build custom reports using Python and Django.
-
-Repo: https://github.com/locspoc/digital-marketing-analytics
 
 ### Data Analysis And Visualisation
 
@@ -20,11 +14,29 @@ Using python to analyse, visualise and present data.
 
 Repo: https://github.com/locspoc/data_analysis_and_visualisation
 
-### Python Blockchain Programming
+### Flask Demo
 
-Building a blockchain and cryptocurrency from scratch using Python.
+Demo Flask website.
 
-Repo: https://github.com/locspoc/python-blockchain-programming
+Repo: https://github.com/locspoc/flask-demo
+
+### Python Django Blog
+
+An example blog built using Python and Django.
+
+Repo: https://github.com/locspoc/pythondjangoblog
+
+### Python Django Social
+
+An example social network built using Python and Django.
+
+Repo: https://github.com/locspoc/pythondjangosocial
+
+### Profiles REST API
+
+REST API App + fully-functioning user database.
+
+Repo: https://github.com/locspoc/profiles-rest-api
 
 ### Python Test Driven Development
 
@@ -38,39 +50,71 @@ Creating an advanced REST API with Python, Django REST Framework and Docker usin
 
 Repo: https://github.com/locspoc/recipe-app-api
 
-### Profiles REST API
+## Next JS
 
-REST API App + fully-functioning user database.
+### Next JS, Tailwind Ecommerce
 
-Repo: https://github.com/locspoc/profiles-rest-api
+An ecommerce website built using Next JS and Tailwind
 
-### Python Django Social
+Repo: https://github.com/locspoc/nextjs-tailwind-ecommerce
 
-An example social network built using Python and Django.
+## Node JS
 
-Repo: https://github.com/locspoc/pythondjangosocial
+### TDD With Express
 
-### Python Django Blog
+A NodeJS project with Test Driven Development using Express.
 
-An example blog built using Python and Django.
+Repo: https://github.com/locspoc/tdd-with-express
 
-Repo: https://github.com/locspoc/pythondjangoblog
+## React
 
-## NodeJS
+### Cocktails
 
-### Loc Chain
+Cocktails demo React app.
 
-Building a full stack block chain and cryptocurrency - a backend + frontend with Node.js, Jest, Express, React, Heroku & more!
+Repo: https://github.com/locspoc/cocktails
 
-Repo: https://github.com/locspoc/locchain
+### Comfy Sloth
+
+An ecommerce website built using React.
+
+Repo: https://github.com/locspoc/react-course-comfy-sloth-starter
+
+### Search Github Users
+
+Search Github Users app built using React.
+
+Repo: https://github.com/locspoc/github-search-users
+
+## Shopify
+
+### Hydrogen Tailwind Shopify
+
+A headless Shopify store using Hydrogen and Tailwind.
+
+Repo: https://github.com/locspoc/hydrogen-tailwind-shopify
+
+## WordPress
+
+### Bootsrap 5
+
+Application of Bootstrap 5 within WordPress.
+
+Repo: https://github.com/locspoc/bootstrap5
+
+### Loc's Blocks
+
+Custom Gutenberg blocks for WordPress.
+
+Repo: https://github.com/locspoc/locs-blocks
+
+### Loc's Block Theme
+
+Custom Gutenberg Full Site Editing block theme for WordPress.
+
+Repo: https://github.com/locspoc/locs-block-theme
 
 ## PHP
-
-### PHP OOP
-
-An example website application using PHP Object Oriented Programming.
-
-Repo: https://github.com/locspoc/php-oop
 
 ### PHP CMS
 
@@ -78,17 +122,17 @@ An example blog built using PHP.
 
 Repo: https://github.com/locspoc/phpcms
 
+### PHP OOP
+
+An example website application using PHP Object Oriented Programming.
+
+Repo: https://github.com/locspoc/php-oop
+
 ### PHP Unit Testing With PHPUnit
 
 Unit testing PHP code using the PHPUnit testing framework: finding bugs quickly and early, and improving code quality.
 
 Repo: https://github.com/locspoc/php-unit
-
-### Fictional
-
-An example custom WordPress theme and plugins.
-
-Repo: https://github.com/locspoc/fictional
 
 <!---
 locspoc/locspoc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
